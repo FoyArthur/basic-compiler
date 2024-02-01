@@ -1,0 +1,21 @@
+LET LET
+x IDENTIFIER
+= EQUALS
+4.067 NUMBER
+
+ NEWLINE
+
+
+Hello Mate
+.data
+
+format:
+	.asciz "d
+"
+
+.text
+.globl main
+.type main, @function
+
+main:
+	NUMBER

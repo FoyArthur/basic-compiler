@@ -1,0 +1,2 @@
+LET xavier78 = 4 * 9 + 67 / 5 - 670
+PRINT xavier78
